@@ -1,0 +1,14 @@
+configName: default
+folderName: I2C Slave DMA
+format_version: v1.0
+frameworkPath: ..\..\Harmony3
+processor: ATSAMD21G17D
+projectName: I2C Slave DMA
+settings:
+  PackageFilter: csp;dev_packs;harmony-services;quick_docs
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAMD21_DFP\3.6.144\samd21d\atdf\ATSAMD21G17D.atdf

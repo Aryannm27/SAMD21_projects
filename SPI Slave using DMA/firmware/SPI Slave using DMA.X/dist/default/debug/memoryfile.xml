@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/SPI_Slave_using_DMA.X.debug.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>2770</used>
+      <free>128302</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>866</used>
+      <free>15518</free>
+    </memory>
+  </executable>
+</project>

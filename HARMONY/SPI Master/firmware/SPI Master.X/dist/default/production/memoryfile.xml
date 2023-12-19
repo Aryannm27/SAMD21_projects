@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production/SPI_Master.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>2634</used>
+      <free>128438</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>239</used>
+      <free>16145</free>
+    </memory>
+  </executable>
+</project>

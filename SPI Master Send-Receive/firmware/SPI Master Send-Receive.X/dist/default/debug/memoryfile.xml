@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/SPI_Master_Send-Receive.X.debug.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>3382</used>
+      <free>127690</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>997</used>
+      <free>15387</free>
+    </memory>
+  </executable>
+</project>

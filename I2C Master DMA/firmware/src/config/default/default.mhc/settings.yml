@@ -1,0 +1,14 @@
+configName: default
+folderName: I2C Master DMA
+format_version: v1.0
+frameworkPath: ..\..\Harmony3
+processor: ATSAMD21G17D
+projectName: I2C Master DMA
+settings:
+  PackageFilter: bsp;core;core_apps_sam_d21_da1;core_apps_sam_d5x_e5x;crypto;csp;csp_apps_sam_d21_da1;csp_apps_sam_d5x_e5x;dev_packs;harmony-services;net;net_apps_sam_e5x;quick_docs;usb;usb_apps_device;usb_apps_dual_role;usb_apps_host;usb_apps_multi_controller
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAMD21_DFP\3.6.144\samd21d\atdf\ATSAMD21G17D.atdf

@@ -1,0 +1,39 @@
+"Pin Number","Pin ID","Custom Name","Function","Mode", "Direction","Latch","Pull Up","Pull Down","Drive Strength"
+1,PA00,DIO0 ,GPIO,Digital,In/Out,Low,,,NORMAL
+2,PA01,DIO1,GPIO,Digital,In/Out,Low,,,NORMAL
+3,PA02,AOP0,DAC_VOUT,Analog,High Impedance,n/a,,,NORMAL
+4,PA03,,Available,,,,,,NORMAL
+7,PB08,AIP0,ADC_AIN2,Analog,High Impedance,n/a,,,NORMAL
+8,PB09,AIP1,ADC_AIN3,Analog,High Impedance,n/a,,,NORMAL
+9,PA04,SPI1_MOSI ,SERCOM0_PAD0,Digital,High Impedance,n/a,No,No,NORMAL
+10,PA05,SPI1_ACK,SERCOM0_PAD1,Digital,High Impedance,n/a,No,No,NORMAL
+11,PA06,SPI1_SS,GPIO,Digital,In/Out,Low,,,NORMAL
+12,PA07,SPI1_MISO,SERCOM0_PAD3,Digital,High Impedance,n/a,No,No,NORMAL
+13,PA08,INT0,EIC_NMI,Digital,High Impedance,n/a,No,No,NORMAL
+14,PA09,UART1_Rx,SERCOM2_PAD1,Digital,High Impedance,n/a,No,No,NORMAL
+15,PA10,AIP2 ,ADC_AIN18,Analog,High Impedance,n/a,,,NORMAL
+16,PA11,AIP3,ADC_AIN19,Analog,High Impedance,n/a,,,NORMAL
+19,PB10,PWM0,TCC0_WO4,Digital,High Impedance,n/a,No,No,NORMAL
+20,PB11,PWM1 ,TCC0_WO5,Digital,High Impedance,n/a,No,No,NORMAL
+21,PA12,PWM2,TCC2_WO0,Digital,High Impedance,n/a,No,No,NORMAL
+22,PA13,PWM3,TCC2_WO1,Digital,High Impedance,n/a,No,No,NORMAL
+23,PA14,UART1_TX,SERCOM2_PAD2,Digital,High Impedance,n/a,No,No,NORMAL
+24,PA15,INT1,EIC_EXTINT15,Digital,High Impedance,n/a,No,No,NORMAL
+25,PA16,I2C1_SDA ,SERCOM1_PAD0,Digital,High Impedance,n/a,No,No,NORMAL
+26,PA17,I2C1_SCK,SERCOM1_PAD1,Digital,High Impedance,n/a,No,No,NORMAL
+27,PA18,,Available,,,,,,NORMAL
+28,PA19,,Available,,,,,,NORMAL
+29,PA20,INT2 ,EIC_EXTINT4,Digital,High Impedance,n/a,No,No,NORMAL
+30,PA21,INT3,EIC_EXTINT5,Digital,High Impedance,n/a,No,No,NORMAL
+31,PA22,UART2_CDC_TX,SERCOM5_PAD0,Digital,High Impedance,n/a,No,No,NORMAL
+32,PA23,USB_SOF_1KHz ,USB_SOF_1KHZ,Digital,High Impedance,n/a,No,No,NORMAL
+33,PA24,USB_DM ,USB_DM,Digital,High Impedance,n/a,No,No,NORMAL
+34,PA25,USB_DP ,USB_DP,Digital,High Impedance,n/a,No,No,NORMAL
+37,PB22,UART2_CDC_RX,SERCOM5_PAD2,Digital,High Impedance,n/a,No,No,NORMAL
+38,PB23,,Available,,,,,,NORMAL
+39,PA27,,Available,,,,,,NORMAL
+41,PA28,,Available,,,,,,NORMAL
+45,PA30,,Available,,,,,,NORMAL
+46,PA31,,Available,,,,,,NORMAL
+47,PB02,,TCC3_WO2,Digital,High Impedance,n/a,No,No,NORMAL
+48,PB03,,Available,,,,,,NORMAL

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production/Analog_input.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>7287</used>
+      <free>123785</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>2020</used>
+      <free>14364</free>
+    </memory>
+  </executable>
+</project>

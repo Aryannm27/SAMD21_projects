@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production/UART_Tx.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>5132</used>
+      <free>125940</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>2109</used>
+      <free>14275</free>
+    </memory>
+  </executable>
+</project>
